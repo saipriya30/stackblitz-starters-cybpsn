@@ -1,0 +1,78 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+/* Header Styles */
+header {
+  text-align: center;
+  padding: 1rem;
+  background: #003366;
+  color: #fff;
+}
+
+header img {
+  max-width: 100px;
+  margin-bottom: 1rem;
+}
+
+header h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* Main Content Styling */
+.introduction,
+.section-1,
+.section-2,
+.third-section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 1rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings */
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+  color: #003366;
+}
+
+/* Paragraphs */
+p {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+}
+
+/* Lists */
+ul {
+  padding-left: 20px;
+  margin: 10px 0;
+}
+
+li {
+  margin: 0.5rem 0;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #003366;
+  color: #fff;
+  font-size: 0.9rem;
+}
